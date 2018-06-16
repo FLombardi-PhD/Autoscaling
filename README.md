@@ -1,7 +1,7 @@
 # Autoscaling Repository
 This repo contains the links to my autoscaling projects and related:
 
-1. MYSE - proactive autoscaling framework for distributed systems:__
+1. MYSE - proactive autoscaling framework for distributed systems:<br />
 https://github.com/derigo88/MYSE-autoscaling-framework
 
 2. Q-Learning Autoscaler - approach to minimize the reconfiguration overhead:__
